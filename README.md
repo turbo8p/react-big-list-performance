@@ -13,7 +13,7 @@ Statement about `useEffect()` from [React documentation](https://reactjs.org/doc
 
 > For these types of effects, React provides one additional Hook called `useLayoutEffect`
 
-This section shows you the example that will illustrate what exactly does the above statement means.
+This section shows you the example that will illustrate exactly what the above statement means.
 
 **Visual inconsistency** 
 
