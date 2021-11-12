@@ -1,5 +1,9 @@
 # Overview
 
+Note with examples to illustrate the use cases of functions, hooks in react.
+
+This repo also includes the common problems when working with react and how to solve those problems.
+
 ## When to use useEffect() and useLayoutEffect()
 
 [Link to the code](https://github.com/turbo8p/react-usecase-note/blob/master/src/useeffect-and-uselayouteffect/UseLayoutEffectAndUseEffect.js)
