@@ -2,6 +2,7 @@
 
 ## When to use useEffect() and useLayoutEffect()
 
+[Link to the code](https://github.com/turbo8p/react-usecase-note/blob/master/src/useeffect-and-uselayouteffect/UseLayoutEffectAndUseEffect.js)
 
 Statement about `useEffect()` from [React documentation](https://reactjs.org/docs/hooks-reference.html#useeffect): 
 > However, not all effects can be deferred. For example, a DOM mutation that is visible to the user must fire synchronously before the next paint so that the user does not perceive a visual inconsistency. 
